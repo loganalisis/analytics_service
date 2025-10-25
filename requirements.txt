@@ -1,3 +1,6 @@
-Django
+Django==4.2
 djangorestframework
-pymongo
+djongo
+pymongo[srv]==4.5.0
+python-dotenv==1.0.0
+sqlparse
